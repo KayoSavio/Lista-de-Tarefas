@@ -1,0 +1,28 @@
+h1 {
+    margin: auto;
+    padding: 20px 0;    
+    color:whitesmoke;
+    text-shadow: 3px 3px 1px black;
+    font-size: 60px;
+  }
+
+input{
+    margin: auto;
+    width: 500px;
+    border: 1px solid black;
+    
+}
+li{
+    margin-left: 100px;
+}
+html{
+    background-color: saddlebrown;
+}
+body {
+    width: 600px;
+    margin: 2em;
+    background-color: darkgreen;
+    padding: 20 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
